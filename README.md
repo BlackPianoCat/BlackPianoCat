@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I’m BlackPianoCat! 🎹🐾
 
-<!--
-**BlackPianoCat/BlackPianoCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **biophysicist** and **data scientist** fascinated by the mysteries of chromatin. My main focus is modeling chromatin structure and dynamics using **stochastic simulations**—all powered by Python, my language of choice.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧬 What I Do
+
+- **Modeling Chromatin:** I develop and use stochastic and molecular dynamics simulations to better understand how chromatin behaves.
+- **Python Everything:** If it can be written in Python, I’ll write it in Python!
+- **Big Ideas, Minimal Code:** I believe in focusing on the big picture and solving complex problems with elegant, concise code.
+
+---
+
+## 🚀 Featured Project
+
+### [RepliSage](#)
+_A machine that combines stochastic simulations with molecular dynamics for the modeling of chromatin._
+
+> “Simplicity is the ultimate sophistication.”  
+> — I try to keep my codebase as lean as possible while chasing ambitious scientific questions.
+
+---
+
+## 🎹 More About Me
+
+- I play the piano (hence the name!)
+- I enjoy biking 🚴
+- I like to keep things minimalist, but I’m not afraid to be a little funny
+
+---
+
+Thanks for stopping by! If you’re passionate about biophysics, Python, or just want to chat about the mysteries of the genome (or piano music), feel free to connect!
