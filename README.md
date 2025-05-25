@@ -15,7 +15,7 @@ I’m a **biophysicist** and **data scientist** fascinated by the mysteries of c
 ## 🚀 Featured Project
 
 ### [RepliSage](#)
-_A machine that combines stochastic simulations with molecular dynamics for the modeling of chromatin._
+_A machine that combines stochastic simulations with molecular dynamics for the modeling of chromatin. It models the interaction between loop extrusion, epigenetic mark spreading and DNA replication. This machine is made with unique simplicity and ease of use._
 
 > “Simplicity is the ultimate sophistication.”  
 > — I try to keep my codebase as lean as possible while chasing ambitious scientific questions.
