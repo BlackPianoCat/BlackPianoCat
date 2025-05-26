@@ -3,15 +3,6 @@
 I am a **biophysicist** and **data scientist** specializing in the **modeling of chromatin structure and dynamics**. My research integrates **stochastic simulations**, **molecular dynamics**, and **machine learning**, all implemented in Python—my primary programming language and favorite scientific tool.
 
 ---
-## 👤 About Me
-
-I’m a Greek-born scientist with a lifelong connection to the sea—having spent most of my life near the coast, the rhythm of waves and open horizons continue to inspire both my science and my music.
-
-Outside the lab, I am passionate about music, especially classical and jazz. I’m also an active pianist and composer, always searching for harmony between creativity and structure—just like in chromatin.
-
-Currently, I live in Warsaw, Poland, where I conduct research in the Plewczyński Lab, focusing on the biophysical modeling of chromatin and the interplay between genome organization, epigenetics, and replication dynamics.
-
----
 
 ## 🧬 Research Focus
 
@@ -20,7 +11,7 @@ My work centers on unraveling the complexities of **chromatin architecture**, pa
 * **Sequence-based predictive models** for chromatin interactions and epigenetic states.
 * **Physics-driven simulations** to translate these predictions into dynamic structural models.
 
-The ultimate goal is to construct a **hybrid pipeline** that enables **in silico reconstruction of chromatin architecture purely from sequence data**—a step toward understanding how genome structure influences function in health and disease.
+The ultimate goal is to construct a **hybrid pipeline** that enables **in silico reconstruction of chromatin architecture purely from sequence data**—a step toward understanding how genome structure influences function in health and disease. Until now I have implemented 3 user-friendly pipe-lines for the modeling of chromatin dynamics from experimental data.
 
 ---
 
